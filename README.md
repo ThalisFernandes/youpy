@@ -1,7 +1,7 @@
 # youpy
 Youpy youtube Downloader for MP3
-!(youpy)[![image](https://github.com/user-attachments/assets/c5546675-6f0c-4621-a9fd-e97638901876)
-]
+![image](https://github.com/user-attachments/assets/c5546675-6f0c-4621-a9fd-e97638901876)
+
 
 Repositorio do Youpy, ferramenta de download de videos do youtube para MP3, para conseguir rodar o youpy, primeiro você precisa instalar as dependencias com os seguintes comandos:
 
